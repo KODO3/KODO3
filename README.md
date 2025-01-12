@@ -14,7 +14,8 @@
 
 ## 🚀 About Me
 
-- 🎓 I’m currently studying **Computer Science** at **Carleton Univeristy**  
+- 🎓 I’m currently studying **Computer Science** at **Carleton Univeristy**
+- 💻 Interested in **Software development**, **Cyber Security**, and anything new & exciting in CS. 
 - 🔭 I’m currently working on **Anatomics(https://github.com/Goshenko/Anatomics)**
 - 🌱 I’m currently learning **C++, React.js, Node.js, JavaScript and HTML ...**  
 - 📫 How to reach me: **[ejheynings@gmail.com](mailto:ejheynings@gmail.com)**  
@@ -46,24 +47,13 @@
 ## Projects
 
 ## 🔗 Projects
+I’m still building out my portfolio, so more projects are on the way!
 
 | Project Name | Description | Tech Stack | Demo/Code |
 |--------------|-------------|------------|-----------|
 | **[Anatomics](https://github.com/Goshenko/Anatomics)** | A fitness-related web app integrating 3D human anatomy models (via Blender) with tailored workout programs. Features interactive 3D visuals and dynamic user interfaces for personalized fitness planning. | Three.JS, JavaScript, Tailwind CSS, HTML, Blender | [Code](https://github.com/Goshenko/Anatomics) |for personalized fitness planning. | _List main languages/frameworks_ | [Code](PROJECT_ONE_REPO_LINK) |
 
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## Get in Touch
 
