@@ -5,7 +5,7 @@
 -->
 
 <!-- Banner Image -->
-![Banner](https://your-banner-image-url.com/banner.png)
+![Banner](https://github.com/KODO3/KODO3/blob/main/github-header-image%20(1).png)
 
 <!-- Profile Header -->
 <h1 align="center">Hi there! I'm Eric Heynings 👋</h1>
